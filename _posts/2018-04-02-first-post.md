@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: First post
 date: 2018-04-02
 categories: blog

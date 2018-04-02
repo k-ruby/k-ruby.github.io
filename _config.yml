@@ -24,9 +24,11 @@ github_username:  tamochia
 
 # Build settings
 markdown: kramdown
-theme: minima
+#theme: minima
 plugins:
   - jekyll-feed
+
+remote_theme: "mmistakes/minimal-mistakes"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
