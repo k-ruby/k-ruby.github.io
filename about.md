@@ -4,15 +4,15 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+鹿児島Rubyコミュニティ（K-Ruby: Kagoshima Ruby Community）
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+2011/05/26 鹿児島でRubyのコミュニティを立ち上げました。
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+プログラマーやハッカーなどプログラミング好きの集まりです。
 
+Rubyが中心ですが、Rubyに限らず、Python、PHP、JavaScriptなど、Lightweight Languageでの開発に興味をお持ちの方、情報共有の場として、どうぞご参加ください！
 
-[jekyll-organization]: https://github.com/jekyll
+[Facebookページ https://www.facebook.com/kagoshima.rb/](https://www.facebook.com/kagoshima.rb/)
+
+Facebookグループ（K-ruby）も用意してます。
+
