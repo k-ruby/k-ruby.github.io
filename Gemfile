@@ -29,6 +29,6 @@ end
 # Performance-booster for watching directories on Windows
 #gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
-# Suggestions with a vulnerability of Nokogiri from GitHub. 2019-09-21
+# Suggestions with a vulnerability of Nokogiri from GitHub. 2019-08-21
 gem "nokogiri", "~> 1.10.4"
 
