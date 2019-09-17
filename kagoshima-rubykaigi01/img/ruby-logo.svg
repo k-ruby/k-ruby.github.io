@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="62.29" height="55.75" viewBox="0 0 62.29 55.75">
+<defs>
+<style>
+  .a{
+      fill:#c10f2c;
+    }
+  .b{
+      fill:#dd102e;
+    }
+  .c{
+      fill:#222;
+    }
+
+    #a1{
+      animation: color1 2s linear infinite;
+    }
+
+    #b1{
+      animation: color2 2s linear infinite;
+    }
+
+    #a1-5{
+      animation: color2 2s linear 0.1s infinite;
+    }
+
+    #a2{
+      animation: color1 2s linear 0.2s infinite;
+    }
+
+    #b2{
+      animation: color2 2s linear 0.2s infinite;
+    }
+
+    #a2-5{
+      animation: color2 2s linear 0.3s infinite;
+    }
+
+    #a3{
+      animation: color1 2s linear 0.4s infinite;
+    }
+
+    #b3{
+      animation: color2 2s linear 0.4s infinite;
+    }
+
+
+    @keyframes color1
+    {
+      0%{
+        fill: #c10f2c;
+      }
+      45%{
+        fill: #c10f2c;
+      }
+      50%{
+        fill: #ff9fad;
+      }
+      95%{
+        fill: #c10f2c;
+      }
+      100%{
+        fill: #c10f2c;
+      }
+    }
+
+    @keyframes color2
+    {
+      0%{
+        fill: #dd102e;
+      }
+      45%{
+        fill: #dd102e;
+      }
+      50%{
+        fill: #ff9fad;
+      }
+      95%{
+        fill: #dd102e;
+      }
+      100%{
+        fill: #dd102e;
+      }
+    }
+
+
+</style>
+</defs>
+<title>ruby-logo</title>
+<polygon id="b2" class="a" points="20.53 52.51 20.13 20.01 41.13 29.01 20.53 52.51"/>
+<polygon id="a3" class="a" points="57.53 18.41 60.78 37 40.4 28.73 57.53 18.41"/>
+<polygon id="a2" class="a" points="37.78 9.98 41.03 28.57 20.65 20.3 37.78 9.98"/>
+<polygon id="a1" class="a" points="17.77 1.5 21.02 20.08 0.63 11.81 17.77 1.5"/>
+<polygon id="a1-5" class="b" points="20.02 20.09 16.77 1.5 37.16 9.77 20.02 20.09"/>
+<polygon id="a2-5" class="b" points="42.26 29.11 57.54 18.05 37.16 9.77 42.26 29.11"/>
+<polygon id="b3" class="b" points="19.11 54.25 42.26 29.11 60.79 36.63 19.11 54.25"/>
+<polygon id="b1" class="b" points="19.11 54.25 20.02 20.09 1.49 12.57 19.11 54.25"/>
+<path class="c" d="M62.1,37.35a2.56,2.56,0,0,0,.11-.24c0-.06,0-.11,0-.16a2.3,2.3,0,0,0,0-.26s0,0,0-.07,0-.07,0-.11,0-.09,0-.13L59,17.79a1.49,1.49,0,0,0-.91-1.13L37.73,8.39h0L17.34.11a1.51,1.51,0,0,0-1.45.18L.61,11.35l-.1.1-.09.06s0,0,0,.06a1.13,1.13,0,0,0-.15.21l-.09.14a1.83,1.83,0,0,0-.08.25.33.33,0,0,0,0,.14,1.51,1.51,0,0,0,0,.3v.14a1.34,1.34,0,0,0,.11.39h0L17.73,54.83s0,.06.05.09a1.34,1.34,0,0,0,.22.31l.1.12a1.46,1.46,0,0,0,.44.29h0a1.55,1.55,0,0,0,.56.11h0a1.53,1.53,0,0,0,.3,0l.1,0,.18-.06L61.38,38a1.67,1.67,0,0,0,.28-.18l.07,0h0l.09-.09a2.09,2.09,0,0,0,.2-.22A.83.83,0,0,1,62.1,37.35ZM21.46,22.29l18.23,7.4-19,20.6Zm17.7,3.95L23.37,19.83l12.85-7.74,3.83,14.5Zm.21-13.95,15.1,6.13L43.15,26.61ZM21.12,17.67,18.72,3.91,33.81,10Zm-3,0L4.56,12.19,15.71,4.12ZM42.66,30.89l14.21,5.77-32,13.51Zm16.19,3.34L45.33,28.74l11.15-8.07ZM18.49,21.09l-.7,26.2-13.51-32Z"/>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18.66" height="20.18" viewBox="0 0 18.66 20.18">
+<defs>
+<style>
+.a{
+  fill:#ff9fad;
+  animation: color 1s linear 0.1s infinite;
+}
+
+@keyframes color {
+    0% {
+          fill:#dd102e;
+    }
+    50% {
+          fill:#ff9fad;
+    }
+    100% {
+          fill:#dd102e;
+    }
+}
+
+</style>
+</defs>
+<title>
+triangle-1</title>
+<polygon class="a" points="18.66 2.8 0 0 8.76 20.18 18.66 2.8"/>
+</svg>
