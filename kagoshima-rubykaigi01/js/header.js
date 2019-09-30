@@ -1,16 +1,10 @@
 $(function () {
 
-  $(function () {
-
-
     $('main section#catch a#to-presenter').hover(function () {
       $("main section#catch div.ib").addClass("preh");
     }, function () {
       $("main section#catch div.ib").removeClass("preh");
     });
-  });
-
-
 
   $("main section#catch a#to-presenter").click(function () {
     scroll_screen("#presenter", "fast", 0,0);

@@ -1,1 +1,728 @@
-a,hr{padding:0}.cf:after,article,aside,details,figcaption,figure,footer,header,hgroup,hr,menu,nav,section{display:block}abbr,address,article,aside,audio,b,blockquote,body,canvas,caption,cite,code,dd,del,details,dfn,div,dl,dt,em,fieldset,figcaption,figure,footer,form,h1,h2,h3,h4,h5,h6,header,hgroup,html,i,iframe,img,ins,kbd,label,legend,li,mark,menu,nav,object,ol,p,pre,q,samp,section,small,span,strong,sub,summary,sup,table,tbody,td,tfoot,th,thead,time,tr,ul,var,video{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1;font-family:Hiragino Sans,Hiragino Kaku Gothic ProN,Noto Sans JP,Meiryo,游ゴシック,Yu Gothic,メイリオ,Osaka,sans-serif;color:#231815;letter-spacing:.05rem}nav ul{list-style:none}blockquote,q{quotes:none}blockquote:after,blockquote:before,q:after,q:before{content:'';content:none}a{margin:0;font-size:100%;vertical-align:baseline;background:0 0}ins{text-decoration:none}ins,mark{background-color:#ff9;color:#000}mark{font-style:italic;font-weight:700}del{text-decoration:line-through}abbr[title],dfn[title]{border-bottom:1px dotted;cursor:help}table{border-collapse:collapse;border-spacing:0}hr{height:1px;border:0;border-top:1px solid #ccc;margin:1em 0}input,select{vertical-align:middle}li{list-style-type:none}body,html{width:100%;height:100%}.cf{zoom:1}.cf:after{content:'';clear:both}.dn{display:none}.flex_row{display:flex;flex-direction:row;justify-content:space-between}.db{display:block}.dib{display:inline-block}.bs{margin:20px 0;padding:40px 0}.bs:first-child{margin:0 0 42px}.bs:last-child{margin:0 0 20px}h2{text-align:center;font-size:2.5rem;margin-bottom:40px;line-height:3rem}p{line-height:1.75rem}@media screen and (max-width:640px){.bs{margin:9pt 0;padding:9pt 0}.bs:first-child,.bs:last-child{margin:0 0 9pt}h2{font-size:1.25rem;margin-bottom:9pt;line-height:1.75rem}}main{min-height:calc(100% - 150px)}main section#catch{display:flex;flex-direction:column-reverse;text-align:center;box-sizing:border-box;height:696px;justify-content:flex-end;background:url(../img/catch-back.svg) center bottom no-repeat,url(../img/triangle-1.svg) 6.5vw 420px no-repeat,url(../img/triangle-2.svg) 8.5vw 171px no-repeat,url(../img/triangle-3.svg) 10.5vw 327px no-repeat,url(../img/triangle-4.svg) 10.5vw 555px no-repeat,url(../img/triangle-5.svg) 12.5vw 218px no-repeat,url(../img/triangle-6.svg) 13.5vw 60px no-repeat,url(../img/triangle-1.svg) 86vw 537px no-repeat,url(../img/triangle-2.svg) 91vw 476px no-repeat,url(../img/triangle-3.svg) 90vw 68px no-repeat,url(../img/triangle-4.svg) 92vw 282px no-repeat,url(../img/triangle-5.svg) 84vw 350px no-repeat,url(../img/triangle-6.svg) 87vw 205px no-repeat;border-bottom:solid 1px #dcdcdc}main section#catch div.lower{padding-top:20px}main section#catch div.lower h1{font-size:2.5rem;margin-bottom:12px}main section#catch div.lower p{line-height:2rem;font-size:1.5rem;font-weight:700}main section#catch div.lower p.overview{font-weight:400;font-size:1.25rem;margin-top:12px}main section#catch div.lower a{background-color:#ece416;display:block;color:#222;padding:16px;border:6px solid #222;border-radius:8px;text-align:center;max-width:272px;text-decoration:none;font-size:1.25rem;font-weight:700;margin:12px auto;transition:all .2s ease}main section#catch div.lower a:hover{color:#dd102e;border:6px solid #dd102e}main section#catch div.ib{position:relative}main section#catch div.ib:before{content:"";display:block;width:86px;height:56px;background:url(../img/ruby-logo.svg) right center no-repeat;margin:0 auto 2pc}main section#catch div.ib.preh:before{background:url(../img/ruby-logo2.svg) right center no-repeat}main section#catch div.ib img{margin:0 auto;display:block;width:15pc;height:15pc;border:4px solid #222;border-radius:1pc}main section#theme h2{margin-bottom:20px}main section#theme div.t-area dl{margin-bottom:12px;line-height:1.75rem;font-size:1.125rem}main section#theme div.t-area dl dt{font-weight:700}main section#theme div.t-area dl dd{font-size:.875rem}main section#theme div.t-area{margin:0 auto;max-width:840px;padding:0 9pt}main section#theme div.t-area p{line-height:1.75rem;margin-bottom:1pc}main section#presenter div.inner{margin:0 auto;max-width:840px;padding:0 9pt}main section#presenter div.inner h2{margin-bottom:20px}main section#presenter div.inner div.area{border-bottom:solid 2px #dcdcdc;padding:24px 0}main section#presenter div.inner div.area h3{font-size:1.75rem;margin-bottom:12px}main section#presenter div.inner div.area p span{color:#dd102e;font-weight:700}main section#presenter div.inner div.area ul{line-height:1.75rem;margin-bottom:1pc;margin-top:1pc}main section#presenter div.inner div.area a#to-presenter-form{background-color:#ece416;display:block;color:#222;padding:16px;border:6px solid #222;border-radius:8px;text-align:center;max-width:272px;text-decoration:none;font-size:1.25rem;font-weight:700;margin:12px auto;transition:all .2s ease}main section#code-conduct,main section#keynote ul.speakers{max-width:840px;margin:0 auto;padding:0 9pt}main section#presenter div.inner div.area a#to-presenter-form:hover{color:#dd102e;border:6px solid #dd102e}main section#code-conduct p.add{color:#a7a7a7;text-align:center}main section#code-conduct p.add a{color:#dd102e}main section#keynote ul.speakers{display:flex;justify-content:space-between}main section#keynote ul.speakers li.outline{max-width:25pc;border:4px solid #222;border-radius:8px;overflow:hidden;margin-right:9pt;height:100%}main section#keynote ul.speakers li.outline:last-child{margin-right:0}main section#keynote ul.speakers li.outline dl{display:flex;flex-direction:column}main section#keynote ul.speakers li.outline dl dt{order:2;text-align:center;font-size:1.5rem;font-weight:700;margin-top:20px}main section#keynote ul.speakers li.outline dl dd.sns-area{order:3}main section#keynote ul.speakers li.outline dl dd.ib{order:1;height:100%}main section#keynote ul.speakers li.outline dl dd.ib img{display:block;width:100%}main section#keynote ul.speakers li.outline dl dd ul.sns{display:flex;justify-content:space-between;max-width:72px;margin:9pt auto 20px}main section#keynote ul.speakers li.outline dl dd ul.sns li a{text-decoration:none;display:block;width:2pc;height:2pc;text-indent:-9999px}main section#keynote ul.speakers li.outline dl dd ul.sns li a.github{background:url(../img/git-logo.svg) center no-repeat}main section#keynote ul.speakers li.outline dl dd ul.sns li a.facebook{background:url(../img/facebook-logo.svg) center no-repeat}main section#schedule ul{max-width:840px;margin:0 auto;padding:0 9pt}main section#schedule ul li{border-bottom:solid 2px #dcdcdc;padding:24px 0}main section#schedule ul li dl{display:flex}main section#schedule ul li dl dt{width:78pt;line-height:2rem}main section#schedule ul li dl.two dd{font-size:1.25rem;line-height:2rem}main section#schedule ul li dl.basic dd.title{font-size:1.5rem;line-height:2rem;font-weight:700;order:3;padding-left:20px}main section#schedule ul li dl.basic dd.title span{font-weight:400;font-size:1rem;display:block;margin-top:9pt}main section#schedule ul li dl.basic dd.ib{width:78pt;order:2}main section#schedule ul li dl.basic dd.ib img,main section#sponsors ul li dl dd img{display:block;width:100%}main section#sponsors ul{display:flex;justify-content:space-between;max-width:840px;padding:0 9pt;margin:0 auto}main section#sponsors ul li{max-width:15pc;border:4px solid #222;border-radius:8px;overflow:hidden;margin-right:9pt;height:100%}main section#sponsors ul li:last-child{margin-right:0}main section#sponsors ul li dl{display:flex;flex-direction:column-reverse}main section#sponsors ul li dl dt{padding:20px 0;font-size:1.25rem;line-height:1.5rem;font-weight:700;text-align:center}main section#sponsors ul li dl dd{height:100%}main section#team ul{display:flex;justify-content:space-between;max-width:840px;margin:0 auto;padding:0 9pt}main section#team ul li.teams{max-width:10pc;border:4px solid #222;border-radius:8px;overflow:hidden;margin-right:9pt;height:100%}main section#team ul li.teams:last-child{margin-right:0}main section#team ul li.teams dl{display:flex;flex-direction:column;justify-content:flex-end}main section#team ul li.teams dl dt{font-size:1.25rem;font-weight:700;text-align:center;order:2;padding:9pt 0}main section#team ul li.teams dl dd.sns-area{order:3}main section#team ul li.teams dl dd.ib{order:1;height:100%}main section#team ul li.teams dl dd ul.sns{display:flex;justify-content:space-between;max-width:72px;margin:0 auto 9pt}main section#team ul li.teams dl dd ul.sns li a{text-decoration:none;display:block;width:2pc;height:2pc;text-indent:-9999px}main section#team ul li.teams dl dd ul.sns li a.github{background:url(../img/git-logo.svg) center no-repeat}main section#team ul li.teams dl dd ul.sns li a.facebook{background:url(../img/facebook-logo.svg) center no-repeat}main section#team ul li.teams dl dd.ib img{display:block;width:100%}footer{border-top:solid 2px #dcdcdc;padding:4pc 0;margin-top:40px}footer h2{text-align:center;font-size:.875rem;line-height:1.25rem;color:#a7a7a7;margin:0}@media screen and (max-width:640px){main section#keynote ul.speakers,main section#schedule ul li dl,main section#sponsors ul{display:block}main{min-height:calc(100% - 86px)}p{font-size:.75rem;line-height:1.25rem}main section#catch{height:584px;background:url(../img/catch-back.svg) center bottom/160% auto no-repeat,url(../img/triangle-1.svg) 3.5vw 359px/9pt no-repeat,url(../img/triangle-2.svg) .5vw 172px/9pt no-repeat,url(../img/triangle-3.svg) 5.5vw 277px/9pt no-repeat,url(../img/triangle-4.svg) 8.5vw 88px/9pt no-repeat,url(../img/triangle-5.svg) 4.5vw 218px/9pt no-repeat,url(../img/triangle-6.svg) 25.5vw 50px/9pt no-repeat,url(../img/triangle-1.svg) 78vw 57px/9pt no-repeat,url(../img/triangle-2.svg) 97vw 136px/9pt no-repeat,url(../img/triangle-3.svg) 92vw 77px/9pt no-repeat,url(../img/triangle-4.svg) 91vw 17pc/9pt no-repeat,url(../img/triangle-5.svg) 95vw 360px/9pt no-repeat,url(../img/triangle-6.svg) 88vw 205px/9pt no-repeat}main section#catch div.lower{padding-top:9pt}main section#catch div.lower h1{font-size:1.5rem;margin-bottom:9pt}main section#catch div.lower p{font-size:1rem;line-height:1.5rem}main section#catch div.lower p.overview{font-size:.875rem;margin-top:0}main section#catch div.ib:before{margin-bottom:9pt}main section#theme div.t-area p{font-size:.75rem;line-height:1.25rem;margin-bottom:8px}main section#presenter div.inner h2{margin-bottom:12px}main section#presenter div.inner div.area{padding:12px 0}main section#presenter div.inner div.area h3{font-size:1rem}main section#presenter div.inner div.area ul{font-size:.75rem;line-height:1.25rem}main section#keynote ul.speakers li.outline{margin-right:0;margin-bottom:9pt;max-width:100%}main section#keynote ul.speakers li.outline:last-child{margin-bottom:0}main section#keynote ul.speakers li.outline dl dt{font-size:1rem;margin-top:9pt}main section#keynote ul.speakers li.outline dl dd ul.sns{margin:9pt auto}main section#schedule ul li{padding:9pt 0}main section#schedule ul li dl dt{font-size:.75rem;line-height:1.25rem}main section#schedule ul li dl.two dd{font-size:1rem;line-height:1.5rem}main section#schedule ul li dl.basic dd.title{padding-left:0;font-size:1rem;line-height:1.5rem}main section#schedule ul li dl.basic dd.title span{font-size:.75rem;line-height:1.25rem;margin-top:0;margin-bottom:8px}main section#schedule ul li dl.basic dd.ib{width:100%}main section#sponsors ul li,main section#team ul li.teams{margin-right:0;margin-bottom:9pt;max-width:100%}main section#sponsors ul li dl dt{font-size:1rem;padding:9pt}main section#team ul{flex-wrap:wrap}main section#team ul li.teams dl dt{font-size:1rem}footer{padding:9pt}footer h2{font-size:.75rem;line-height:1.25rem}}
+a, hr {
+  padding: 0
+}
+
+.cf:after, article, aside, details, figcaption, figure, footer, header, hgroup, hr, menu, nav, section {
+  display: block
+}
+
+abbr, address, article, aside, audio, b, blockquote, body, canvas, caption, cite, code, dd, del, details, dfn, div, dl, dt, em, fieldset, figcaption, figure, footer, form, h1, h2, h3, h4, h5, h6, header, hgroup, html, i, iframe, img, ins, kbd, label, legend, li, mark, menu, nav, object, ol, p, pre, q, samp, section, small, span, strong, sub, summary, sup, table, tbody, td, tfoot, th, thead, time, tr, ul, var, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: 0 0
+}
+
+body {
+  line-height: 1;
+  font-family: Hiragino Sans, Hiragino Kaku Gothic ProN, Noto Sans JP, Meiryo, 游ゴシック, Yu Gothic, メイリオ, Osaka, sans-serif;
+  color: #231815;
+  letter-spacing: .05rem
+}
+
+nav ul {
+  list-style: none
+}
+
+blockquote, q {
+  quotes: none
+}
+
+blockquote:after, blockquote:before, q:after, q:before {
+  content: '';
+  content: none
+}
+
+a {
+  margin: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: 0 0
+}
+
+ins {
+  text-decoration: none
+}
+
+ins, mark {
+  background-color: #ff9;
+  color: #000
+}
+
+mark {
+  font-style: italic;
+  font-weight: 700
+}
+
+del {
+  text-decoration: line-through
+}
+
+abbr[title], dfn[title] {
+  border-bottom: 1px dotted;
+  cursor: help
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0
+}
+
+hr {
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #ccc;
+  margin: 1em 0
+}
+
+input, select {
+  vertical-align: middle
+}
+
+li {
+  list-style-type: none
+}
+
+body, html {
+  width: 100%;
+  height: 100%
+}
+
+.cf {
+  zoom: 1
+}
+
+.cf:after {
+  content: '';
+  clear: both
+}
+
+.dn {
+  display: none
+}
+
+.flex_row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between
+}
+
+.db {
+  display: block
+}
+
+.dib {
+  display: inline-block
+}
+
+.bs {
+  margin: 20px 0;
+  padding: 40px 0
+}
+
+.bs:first-child {
+  margin: 0 0 42px
+}
+
+.bs:last-child {
+  margin: 0 0 20px
+}
+
+h2 {
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 40px;
+  line-height: 3rem
+}
+
+p {
+  line-height: 1.75rem
+}
+
+@media screen and (max-width:640px) {
+  .bs {
+    margin: 9pt 0;
+    padding: 9pt 0
+  }
+  .bs:first-child, .bs:last-child {
+    margin: 0 0 9pt
+  }
+  h2 {
+    font-size: 1.25rem;
+    margin-bottom: 9pt;
+    line-height: 1.75rem
+  }
+}
+
+main {
+  min-height: calc(100% - 150px)
+}
+
+main section#catch {
+  display: flex;
+  flex-direction: column-reverse;
+  text-align: center;
+  box-sizing: border-box;
+  height: 696px;
+  justify-content: flex-end;
+  background: url(../img/catch-back.svg) center bottom no-repeat, url(../img/triangle-1.svg) 6.5vw 420px no-repeat, url(../img/triangle-2.svg) 8.5vw 171px no-repeat, url(../img/triangle-3.svg) 10.5vw 327px no-repeat, url(../img/triangle-4.svg) 10.5vw 555px no-repeat, url(../img/triangle-5.svg) 12.5vw 218px no-repeat, url(../img/triangle-6.svg) 13.5vw 60px no-repeat, url(../img/triangle-1.svg) 86vw 537px no-repeat, url(../img/triangle-2.svg) 91vw 476px no-repeat, url(../img/triangle-3.svg) 90vw 68px no-repeat, url(../img/triangle-4.svg) 92vw 282px no-repeat, url(../img/triangle-5.svg) 84vw 350px no-repeat, url(../img/triangle-6.svg) 87vw 205px no-repeat;
+  border-bottom: solid 1px #dcdcdc
+}
+
+main section#catch div.lower {
+  padding-top: 20px
+}
+
+main section#catch div.lower h1 {
+  font-size: 2.5rem;
+  margin-bottom: 12px
+}
+
+main section#catch div.lower p {
+  line-height: 2rem;
+  font-size: 1.5rem;
+  font-weight: 700
+}
+
+main section#catch div.lower p.overview {
+  font-weight: 400;
+  font-size: 1.25rem;
+  margin-top: 12px
+}
+
+main section#catch div.lower a {
+  background-color: #ece416;
+  display: block;
+  color: #222;
+  padding: 16px;
+  border: 6px solid #222;
+  border-radius: 8px;
+  text-align: center;
+  max-width: 272px;
+  text-decoration: none;
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin: 12px auto;
+  transition: all .2s ease
+}
+
+main section#catch div.lower a:hover {
+  color: #dd102e;
+  border: 6px solid #dd102e
+}
+
+main section#catch div.ib {
+  position: relative
+}
+
+main section#catch div.ib:before {
+  content: "";
+  display: block;
+  width: 86px;
+  height: 56px;
+  background: url(../img/ruby-logo.svg) right center no-repeat;
+  margin: 0 auto 2pc
+}
+
+main section#catch div.ib.preh:before {
+  background: url(../img/ruby-logo2.svg) right center no-repeat
+}
+
+main section#catch div.ib img {
+  margin: 0 auto;
+  display: block;
+  width: 15pc;
+  height: 15pc;
+  border: 4px solid #222;
+  border-radius: 1pc
+}
+
+main section#theme h2 {
+  margin-bottom: 20px
+}
+
+main section#theme div.t-area dl {
+  margin-bottom: 12px;
+  line-height: 1.75rem;
+  font-size: 1.125rem
+}
+
+main section#theme div.t-area dl dt {
+  font-weight: 700
+}
+
+main section#theme div.t-area dl dd {
+  font-size: .875rem
+}
+
+main section#theme div.t-area {
+  margin: 0 auto;
+  max-width: 840px;
+  padding: 0 9pt
+}
+
+main section#theme div.t-area p {
+  line-height: 1.75rem;
+  margin-bottom: 1pc
+}
+
+main section#presenter div.inner {
+  margin: 0 auto;
+  max-width: 840px;
+  padding: 0 9pt
+}
+
+main section#presenter div.inner h2 {
+  margin-bottom: 20px
+}
+
+main section#presenter div.inner div.area {
+  border-bottom: solid 2px #dcdcdc;
+  padding: 24px 0
+}
+
+main section#presenter div.inner div.area h3 {
+  font-size: 1.75rem;
+  margin-bottom: 12px
+}
+
+main section#presenter div.inner div.area p span {
+  color: #dd102e;
+  font-weight: 700
+}
+
+main section#presenter div.inner div.area ul {
+  line-height: 1.75rem;
+  margin-bottom: 1pc;
+  margin-top: 1pc
+}
+
+main section#presenter div.inner div.area a#to-presenter-form {
+  background-color: #ece416;
+  display: block;
+  color: #222;
+  padding: 16px;
+  border: 6px solid #222;
+  border-radius: 8px;
+  text-align: center;
+  max-width: 272px;
+  text-decoration: none;
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin: 12px auto;
+  transition: all .2s ease
+}
+
+main section#code-conduct, main section#keynote ul.speakers {
+  max-width: 840px;
+  margin: 0 auto;
+  padding: 0 9pt
+}
+
+main section#presenter div.inner div.area a#to-presenter-form:hover {
+  color: #dd102e;
+  border: 6px solid #dd102e
+}
+
+main section#code-conduct p.add {
+  color: #a7a7a7;
+  text-align: center
+}
+
+main section#code-conduct p.add a {
+  color: #dd102e
+}
+
+main section#sponsor{
+  max-width: 1200px;
+    margin: 20px auto;
+    padding: 40px 0;
+}
+
+main section#sponsor ul{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+main section#sponsor ul li{
+  display: flex;
+  align-items: center;
+}
+main section#sponsor ul li a{
+
+}
+
+main section#sponsor ul li#pepabo a img{
+  height: 26px;
+}
+
+main section#sponsor ul li#unimal a img{
+  height: 52px;
+}
+
+main section#sponsor ul li a img{
+  display: block;
+  height: 44px;
+  margin: 12px;
+}
+
+
+main section#keynote ul.speakers {
+  display: flex;
+  justify-content: space-around
+}
+
+main section#keynote ul.speakers li.outline {
+  max-width: 25pc;
+  border: 4px solid #222;
+  border-radius: 8px;
+  overflow: hidden;
+  margin-right: 9pt;
+  height: 100%
+}
+
+main section#keynote ul.speakers li.outline:last-child {
+  margin-right: 0
+}
+
+main section#keynote ul.speakers li.outline dl {
+  display: flex;
+  flex-direction: column
+}
+
+main section#keynote ul.speakers li.outline dl dt {
+  order: 2;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-top: 20px
+}
+
+main section#keynote ul.speakers li.outline dl dd.sns-area {
+  order: 3
+}
+
+main section#keynote ul.speakers li.outline dl dd.ib {
+  order: 1;
+  height: 100%
+}
+
+main section#keynote ul.speakers li.outline dl dd.ib img {
+  display: block;
+  width: 100%
+}
+
+main section#keynote ul.speakers li.outline dl dd ul.sns {
+  display: flex;
+  justify-content: space-between;
+  max-width: 72px;
+  margin: 9pt auto 20px
+}
+
+main section#keynote ul.speakers li.outline dl dd ul.sns li a {
+  text-decoration: none;
+  display: block;
+  width: 2pc;
+  height: 2pc;
+  text-indent: -9999px
+}
+
+main section#keynote ul.speakers li.outline dl dd ul.sns li a.github {
+  background: url(../img/git-logo.svg) center no-repeat
+}
+
+main section#keynote ul.speakers li.outline dl dd ul.sns li a.twitter {
+  background: url(../img/twitter-logo.svg) center no-repeat
+}
+
+main section#schedule ul {
+  max-width: 840px;
+  margin: 0 auto;
+  padding: 0 9pt
+}
+
+main section#schedule ul li {
+  border-bottom: solid 2px #dcdcdc;
+  padding: 24px 0
+}
+
+main section#schedule ul li dl {
+  display: flex
+}
+
+main section#schedule ul li dl dt {
+  width: 78pt;
+  line-height: 2rem
+}
+
+main section#schedule ul li dl.two dd {
+  font-size: 1.25rem;
+  line-height: 2rem
+}
+
+main section#schedule ul li dl.basic dd.title {
+  font-size: 1.5rem;
+  line-height: 2rem;
+  font-weight: 700;
+  order: 3;
+  padding-left: 20px
+}
+
+main section#schedule ul li dl.basic dd.title span {
+  font-weight: 400;
+  font-size: 1rem;
+  display: block;
+  margin-top: 9pt
+}
+
+main section#schedule ul li dl.basic dd.ib {
+  width: 78pt;
+  order: 2
+}
+
+main section#schedule ul li dl.basic dd.ib img, main section#sponsors ul li dl dd img {
+  display: block;
+  width: 100%
+}
+
+main section#sponsors ul {
+  display: flex;
+  justify-content: space-between;
+  max-width: 840px;
+  padding: 0 9pt;
+  margin: 0 auto
+}
+
+main section#sponsors ul li {
+  max-width: 15pc;
+  border: 4px solid #222;
+  border-radius: 8px;
+  overflow: hidden;
+  margin-right: 9pt;
+  height: 100%
+}
+
+main section#sponsors ul li:last-child {
+  margin-right: 0
+}
+
+main section#sponsors ul li dl {
+  display: flex;
+  flex-direction: column-reverse
+}
+
+main section#sponsors ul li dl dt {
+  padding: 20px 0;
+  font-size: 1.25rem;
+  line-height: 1.5rem;
+  font-weight: 700;
+  text-align: center
+}
+
+main section#sponsors ul li dl dd {
+  height: 100%
+}
+
+main section#team ul {
+  display: flex;
+  justify-content: space-between;
+  max-width: 840px;
+  margin: 0 auto;
+  padding: 0 9pt
+}
+
+main section#team ul li.teams {
+  max-width: 10pc;
+  border: 4px solid #222;
+  border-radius: 8px;
+  overflow: hidden;
+  margin-right: 9pt;
+  height: 100%
+}
+
+main section#team ul li.teams:last-child {
+  margin-right: 0
+}
+
+main section#team ul li.teams dl {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end
+}
+
+main section#team ul li.teams dl dt {
+  font-size: 1.25rem;
+  font-weight: 700;
+  text-align: center;
+  order: 2;
+  padding: 9pt 0
+}
+
+main section#team ul li.teams dl dd.sns-area {
+  order: 3
+}
+
+main section#team ul li.teams dl dd.ib {
+  order: 1;
+  height: 100%
+}
+
+main section#team ul li.teams dl dd ul.sns {
+  display: flex;
+  justify-content: space-between;
+  max-width: 72px;
+  margin: 0 auto 9pt
+}
+
+main section#team ul li.teams dl dd ul.sns li a {
+  text-decoration: none;
+  display: block;
+  width: 2pc;
+  height: 2pc;
+  text-indent: -9999px
+}
+
+main section#team ul li.teams dl dd ul.sns li a.github {
+  background: url(../img/git-logo.svg) center no-repeat
+}
+
+main section#team ul li.teams dl dd ul.sns li a.facebook {
+  background: url(../img/facebook-logo.svg) center no-repeat
+}
+
+main section#team ul li.teams dl dd.ib img {
+  display: block;
+  width: 100%
+}
+
+footer {
+  border-top: solid 2px #dcdcdc;
+  padding: 4pc 0;
+  margin-top: 40px
+}
+
+footer h2 {
+  text-align: center;
+  font-size: .875rem;
+  line-height: 1.25rem;
+  color: #a7a7a7;
+  margin: 0
+}
+
+@media screen and (max-width:640px) {
+  main section#keynote ul.speakers, main section#schedule ul li dl, main section#sponsors ul {
+    display: block
+  }
+  main {
+    min-height: calc(100% - 86px)
+  }
+  p {
+    font-size: .75rem;
+    line-height: 1.25rem
+  }
+  main section#catch {
+    height: 584px;
+    background: url(../img/catch-back.svg) center bottom/160% auto no-repeat, url(../img/triangle-1.svg) 3.5vw 359px/9pt no-repeat, url(../img/triangle-2.svg) .5vw 172px/9pt no-repeat, url(../img/triangle-3.svg) 5.5vw 277px/9pt no-repeat, url(../img/triangle-4.svg) 8.5vw 88px/9pt no-repeat, url(../img/triangle-5.svg) 4.5vw 218px/9pt no-repeat, url(../img/triangle-6.svg) 25.5vw 50px/9pt no-repeat, url(../img/triangle-1.svg) 78vw 57px/9pt no-repeat, url(../img/triangle-2.svg) 97vw 136px/9pt no-repeat, url(../img/triangle-3.svg) 92vw 77px/9pt no-repeat, url(../img/triangle-4.svg) 91vw 17pc/9pt no-repeat, url(../img/triangle-5.svg) 95vw 360px/9pt no-repeat, url(../img/triangle-6.svg) 88vw 205px/9pt no-repeat
+  }
+  main section#catch div.lower {
+    padding-top: 9pt
+  }
+  main section#catch div.lower h1 {
+    font-size: 1.5rem;
+    margin-bottom: 9pt
+  }
+  main section#catch div.lower p {
+    font-size: 1rem;
+    line-height: 1.5rem
+  }
+  main section#catch div.lower p.overview {
+    font-size: .875rem;
+    margin-top: 0
+  }
+  main section#catch div.ib:before {
+    margin-bottom: 9pt
+  }
+  main section#theme div.t-area p {
+    font-size: .75rem;
+    line-height: 1.25rem;
+    margin-bottom: 8px
+  }
+  main section#presenter div.inner h2 {
+    margin-bottom: 12px
+  }
+  main section#presenter div.inner div.area {
+    padding: 12px 0
+  }
+  main section#presenter div.inner div.area h3 {
+    font-size: 1rem
+  }
+  main section#presenter div.inner div.area ul {
+    font-size: .75rem;
+    line-height: 1.25rem
+  }
+  main section#keynote ul.speakers li.outline {
+    margin-right: 0;
+    margin-bottom: 9pt;
+    max-width: 100%
+  }
+  main section#keynote ul.speakers li.outline:last-child {
+    margin-bottom: 0
+  }
+  main section#keynote ul.speakers li.outline dl dt {
+    font-size: 1rem;
+    margin-top: 9pt
+  }
+  main section#keynote ul.speakers li.outline dl dd ul.sns {
+    margin: 9pt auto
+  }
+  main section#schedule ul li {
+    padding: 9pt 0
+  }
+  main section#schedule ul li dl dt {
+    font-size: .75rem;
+    line-height: 1.25rem
+  }
+  main section#schedule ul li dl.two dd {
+    font-size: 1rem;
+    line-height: 1.5rem
+  }
+  main section#schedule ul li dl.basic dd.title {
+    padding-left: 0;
+    font-size: 1rem;
+    line-height: 1.5rem
+  }
+  main section#schedule ul li dl.basic dd.title span {
+    font-size: .75rem;
+    line-height: 1.25rem;
+    margin-top: 0;
+    margin-bottom: 8px
+  }
+  main section#schedule ul li dl.basic dd.ib {
+    width: 100%
+  }
+  main section#sponsors ul li, main section#team ul li.teams {
+    margin-right: 0;
+    margin-bottom: 9pt;
+    max-width: 100%
+  }
+  main section#sponsors ul li dl dt {
+    font-size: 1rem;
+    padding: 9pt
+  }
+  main section#team ul {
+    flex-wrap: wrap
+  }
+  main section#team ul li.teams dl dt {
+    font-size: 1rem
+  }
+  footer {
+    padding: 9pt
+  }
+  footer h2 {
+    font-size: .75rem;
+    line-height: 1.25rem
+  }
+}
