@@ -703,6 +703,20 @@ footer h2 {
   main section#schedule ul li dl.basic dd.ib {
     width: 100%
   }
+
+  main section#sponsor ul{
+    flex-direction: column;
+  }
+
+  main section#sponsor ul li a{
+    margin: 0 auto;
+  }
+
+
+
+  main section#sponsors ul{
+    display: block;
+  }
   main section#sponsors ul li, main section#team ul li.teams {
     margin-right: 0;
     margin-bottom: 9pt;
