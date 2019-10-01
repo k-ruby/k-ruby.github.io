@@ -381,7 +381,6 @@ main section#keynote ul.speakers li.outline {
   border-radius: 8px;
   overflow: hidden;
   margin-right: 9pt;
-  height: 100%
 }
 
 main section#keynote ul.speakers li.outline:last-child {
@@ -403,6 +402,11 @@ main section#keynote ul.speakers li.outline dl dt {
 
 main section#keynote ul.speakers li.outline dl dd.sns-area {
   order: 3
+}
+
+main section#keynote ul.speakers li.outline dl dd.profile{
+  order: 4;
+  padding: 0px 12px 12px;
 }
 
 main section#keynote ul.speakers li.outline dl dd.ib {
