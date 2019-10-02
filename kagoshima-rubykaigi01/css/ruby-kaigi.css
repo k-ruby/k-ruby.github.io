@@ -337,9 +337,9 @@ main section#code-conduct p.add a {
 }
 
 main section#sponsor{
-  max-width: 960px;
-    margin: 20px auto;
-    padding: 40px 0;
+  max-width: 1200px;
+  margin: 20px auto;
+  padding: 40px 0;
 }
 
 main section#sponsor ul{
@@ -367,6 +367,12 @@ main section#sponsor ul li a img{
   display: block;
   height: 44px;
   margin: 12px;
+}
+
+main section#sponsor h3 {
+  text-align: center;
+  font-size: 1.5rem;
+  margin: 40px auto 20px;
 }
 
 
