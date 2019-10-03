@@ -345,7 +345,7 @@ main section#sponsor{
 main section#sponsor ul{
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-around;
+  justify-content: center;
 }
 main section#sponsor ul li{
   display: flex;
@@ -366,7 +366,7 @@ main section#sponsor ul li#unimal a img{
 main section#sponsor ul li a img{
   display: block;
   height: 44px;
-  margin: 12px;
+  margin: 20px 40px;
 }
 
 main section#sponsor h3 {
@@ -720,6 +720,10 @@ footer h2 {
 
   main section#sponsor ul li a{
     margin: 0 auto;
+  }
+
+  main section#sponsor h3{
+    font-size: 1rem;
   }
 
 
