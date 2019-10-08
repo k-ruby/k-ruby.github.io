@@ -336,6 +336,13 @@ main section#code-conduct p.add a {
   color: #dd102e
 }
 
+main section#host p{
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin: 40px auto 20px;
+}
+
 main section#sponsor{
   max-width: 1040px;
   margin: 20px auto;
@@ -776,6 +783,11 @@ footer h2 {
   }
   main section#schedule ul li dl.basic dd.ib {
     width: 100%
+  }
+
+  main section#host p{
+    font-size: 1.25rem;
+    margin: 20px auto 12px;
   }
 
   main section#sponsor ul{
