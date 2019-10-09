@@ -284,6 +284,16 @@ main section#presenter div.inner div.area {
   padding: 24px 0
 }
 
+main section#presenter div.inner p.end{
+  color: #dd102e;
+  font-weight: bold;
+  text-align: center;
+}
+
+main section#presenter div.inner div.op{
+  opacity: 0.2;
+}
+
 main section#presenter div.inner div.area h3 {
   font-size: 1.75rem;
   margin-bottom: 12px
@@ -322,10 +332,7 @@ main section#code-conduct, main section#keynote ul.speakers {
   padding: 0 9pt
 }
 
-main section#presenter div.inner div.area a#to-presenter-form:hover {
-  color: #dd102e;
-  border: 6px solid #dd102e
-}
+
 
 main section#code-conduct p.add {
   color: #a7a7a7;
@@ -705,7 +712,7 @@ footer h2 {
     line-height: 1.25rem
   }
   main section#catch {
-    height: 584px;
+    height: 504px;
     background: url(../img/catch-back.svg) center bottom/160% auto no-repeat, url(../img/triangle-1.svg) 3.5vw 359px/9pt no-repeat, url(../img/triangle-2.svg) .5vw 172px/9pt no-repeat, url(../img/triangle-3.svg) 5.5vw 277px/9pt no-repeat, url(../img/triangle-4.svg) 8.5vw 88px/9pt no-repeat, url(../img/triangle-5.svg) 4.5vw 218px/9pt no-repeat, url(../img/triangle-6.svg) 25.5vw 50px/9pt no-repeat, url(../img/triangle-1.svg) 78vw 57px/9pt no-repeat, url(../img/triangle-2.svg) 97vw 136px/9pt no-repeat, url(../img/triangle-3.svg) 92vw 77px/9pt no-repeat, url(../img/triangle-4.svg) 91vw 17pc/9pt no-repeat, url(../img/triangle-5.svg) 95vw 360px/9pt no-repeat, url(../img/triangle-6.svg) 88vw 205px/9pt no-repeat
   }
   main section#catch div.lower {
@@ -737,6 +744,7 @@ footer h2 {
   main section#presenter div.inner div.area {
     padding: 12px 0
   }
+
   main section#presenter div.inner div.area h3 {
     font-size: 1rem
   }
