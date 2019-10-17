@@ -350,6 +350,23 @@ main section#host p{
   margin: 40px auto 20px;
 }
 
+main section#support p{
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin: 40px auto 20px;
+}
+
+main section#support p a{
+  color: #231815;
+  transition: all 0.4s ease;
+  text-decoration: none;
+}
+
+main section#support p a:hover{
+  color: #dd102e;
+}
+
 main section#sponsor{
   max-width: 1040px;
   margin: 20px auto;
@@ -794,6 +811,11 @@ footer h2 {
   }
 
   main section#host p{
+    font-size: 1.25rem;
+    margin: 20px auto 12px;
+  }
+
+  main section#support p{
     font-size: 1.25rem;
     margin: 20px auto 12px;
   }
