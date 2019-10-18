@@ -543,54 +543,118 @@ main section#keynote ul.speakers li.outline dl dd ul.sns li a.twitter {
   background: url(../img/twitter-logo.svg) center no-repeat
 }
 
-main section#schedule ul {
+main section#schedule ul.main {
   max-width: 840px;
   margin: 0 auto;
   padding: 0 9pt
 }
 
-main section#schedule ul li {
+main section#schedule ul li.border {
   border-bottom: solid 2px #dcdcdc;
   padding: 24px 0
 }
 
-main section#schedule ul li dl {
+main section#schedule ul li.border dl.df {
   display: flex
 }
 
-main section#schedule ul li dl dt {
-  width: 78pt;
-  line-height: 2rem
+main section#schedule ul li.border dl.df dt {
+  min-width: 136px;
+  line-height: 2rem;
+  margin-right: 12px;
+  font-weight: bold;
 }
 
-main section#schedule ul li dl.two dd {
+main section#schedule ul li.border dl.df dt span{
+  display: block;
+  font-weight: normal;
+}
+
+main section#schedule ul li.border dl.two dd {
   font-size: 1.25rem;
   line-height: 2rem
 }
 
-main section#schedule ul li dl.basic dd.title {
+main section#schedule ul li.border dl.basic dd.title {
+  order: 3;
+  padding-left: 20px;
+}
+
+main section#schedule ul li.border dl.basic dd.title dl{
+
+}
+
+main section#schedule ul li.border dl.basic dd.title dl dt{
   font-size: 1.5rem;
   line-height: 2rem;
   font-weight: 700;
-  order: 3;
-  padding-left: 20px
 }
 
-main section#schedule ul li dl.basic dd.title span {
-  font-weight: 400;
-  font-size: 1rem;
+main section#schedule ul li.border dl.basic dd.title dl dd{
+  margin: 4px 0px 12px;
+  line-height: 1.5rem;
+}
+
+main section#schedule ul li.border dl.basic dd.title dl dd.name{
+  font-weight: bold;
+  color: #666;
+  font-size: 1.25rem;
+}
+
+main section#schedule ul li.border dl.basic dd.title dl dd.name ul{
+  display: flex;
+  margin-top: 12px;
+}
+
+main section#schedule ul li.border dl.basic dd.title dl dd.name ul li{
+  margin-right: 8px;
+}
+
+main section#schedule ul li.border dl.basic dd.title dl dd.name ul li:last-child{
+  margin-right: 0px;
+}
+
+main section#schedule ul li.border dl.basic dd.title dl dd.name ul li a{
+  text-decoration: none;
   display: block;
-  margin-top: 9pt
+  width: 32px;
+  height: 32px;
+  text-indent: -9999px;
 }
 
-main section#schedule ul li dl.basic dd.ib {
-  width: 78pt;
+main section#schedule ul li.border dl.basic dd.title dl dd.name ul li a.github{
+  background: url(../img/git-logo.svg) center / contain no-repeat;
+}
+
+main section#schedule ul li.border dl.basic dd.title dl dd.name ul li a.twitter{
+  background: url(../img/twitter-logo.svg) center / contain no-repeat;
+}
+
+main section#schedule ul li.border dl.basic dd.title dl dd.name ul li a.facebook{
+  background: url(../img/facebook-logo.svg) center / contain no-repeat;
+}
+
+main section#schedule ul li.border dl.basic dd.title dl dd.content{
+  display: none;
+}
+
+main section#schedule ul li.border dl.basic dd.title span {
+  font-weight: 400;
+  font-size: 0.875rem;
+  display: block;
+  color: #666;
+}
+
+main section#schedule ul li.border dl.basic dd.ib {
+  width: 104px;
+  min-width: 104px;
   order: 2
 }
 
-main section#schedule ul li dl.basic dd.ib img, main section#sponsors ul li dl dd img {
+main section#schedule ul li.border dl.basic dd.ib img, main section#sponsors ul li dl dd img {
   display: block;
-  width: 100%
+  width: 100%;
+  border-radius: 5px;
 }
 
 main section#sponsors ul {
@@ -679,7 +743,7 @@ main section#team ul li.teams dl dd ul.sns {
   display: flex;
   justify-content: space-between;
   max-width: 72px;
-  margin: 0 auto 9pt
+  margin: 0 auto 9pt;
 }
 
 main section#team ul li.teams dl dd ul.sns li a {
@@ -718,7 +782,7 @@ footer h2 {
 }
 
 @media screen and (max-width:640px) {
-  main section#keynote ul.speakers, main section#schedule ul li dl, main section#sponsors ul {
+  main section#keynote ul.speakers, main section#schedule ul li.border dl, main section#sponsors ul {
     display: block
   }
   main {
@@ -784,29 +848,58 @@ footer h2 {
   main section#keynote ul.speakers li.outline dl dd ul.sns {
     margin: 9pt auto
   }
-  main section#schedule ul li {
+  main section#schedule ul li.border {
     padding: 9pt 0
   }
-  main section#schedule ul li dl dt {
-    font-size: .75rem;
-    line-height: 1.25rem
+  main section#schedule ul li.border dl.df{
+    display: block;
   }
-  main section#schedule ul li dl.two dd {
+  main section#schedule ul li.border dl.df dt{
+    font-size: 0.875rem;
+  }
+  main section#schedule ul li.border dl.df dt span{
+    color: #666;
+  }
+  main section#schedule ul li.border dl.df dt.time{
+    background-color: #999;
+    color: #f1f1f1;
+    padding: 8px;
+    text-align: center;
+    line-height: 1.25rem;
+    margin: 0 0 8px;
+    font-weight: normal;
+    border-radius: 3px;
+  }
+  main section#schedule ul li.border dl.df dt.time span{
+    display: inline;
+    color: #f1f1f1;
+  }
+  main section#schedule ul li.border dl.basic dd.title dl dt{
+    font-size: 1rem;
+    line-height: 1.5rem;
+  }
+  main section#schedule ul li.border dl.basic dd.title dl dd.name{
+    font-size: 0.875rem;
+  }
+  main section#schedule ul li.border dl.basic dd.title dl dd.name ul{
+    margin-top: 0px;
+  }
+  main section#schedule ul li.border dl.two dd {
     font-size: 1rem;
     line-height: 1.5rem
   }
-  main section#schedule ul li dl.basic dd.title {
+  main section#schedule ul li.border dl.basic dd.title {
     padding-left: 0;
     font-size: 1rem;
     line-height: 1.5rem
   }
-  main section#schedule ul li dl.basic dd.title span {
+  main section#schedule ul li.border dl.basic dd.title span {
     font-size: .75rem;
     line-height: 1.25rem;
     margin-top: 0;
-    margin-bottom: 8px
+    margin-bottom: 4px;
   }
-  main section#schedule ul li dl.basic dd.ib {
+  main section#schedule ul li.border dl.basic dd.ib {
     width: 100%
   }
 
