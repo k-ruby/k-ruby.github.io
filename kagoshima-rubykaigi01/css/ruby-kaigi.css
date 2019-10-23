@@ -353,8 +353,9 @@ main section#host p{
 main section#support p{
   text-align: center;
   font-size: 1.5rem;
+  line-height: 2rem;
   font-weight: bold;
-  margin: 40px auto 20px;
+  margin: 20px auto;
 }
 
 main section#support p a{
@@ -911,6 +912,7 @@ footer h2 {
   main section#support p{
     font-size: 1.25rem;
     margin: 20px auto 12px;
+    line-height: 1.75rem;
   }
 
   main section#sponsor ul{
