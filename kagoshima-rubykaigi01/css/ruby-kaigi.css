@@ -43,6 +43,11 @@ a {
   background: 0 0
 }
 
+b{
+  color: #dd102e;
+  font-weight: bold;
+}
+
 ins {
   text-decoration: none
 }
@@ -122,6 +127,36 @@ body, html {
   margin: 20px 0;
   padding: 40px 0
 }
+.center{
+  text-align:center;
+}
+
+.main-link{
+  background-color: #ece416;
+  display: block;
+  color: #222;
+  padding: 16px;
+  border: 6px solid #222;
+  border-radius: 8px;
+  text-align: center;
+  max-width: 272px;
+  text-decoration: none;
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin: 12px auto;
+  transition: all .2s ease;
+}
+
+.main-link:hover{
+    color: #dd102e;
+    border: 6px solid #dd102e;
+}
+
+.normal-section{
+  max-width: 840px;
+  margin: 40px auto;
+  padding: 0 12px;
+}
 
 .bs:first-child {
   margin: 0 0 42px
@@ -136,6 +171,21 @@ h2 {
   font-size: 2.5rem;
   margin-bottom: 40px;
   line-height: 3rem
+}
+
+h3 {
+  text-align: center;
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+  line-height: 2rem;
+}
+
+.additional{
+  background-color: #f1f1f1;
+  max-width: 840px;
+  margin: 40px auto;
+  padding: 40px;
+  box-sizing:border-box;
 }
 
 p {
@@ -326,7 +376,18 @@ main section#presenter div.inner div.area a#to-presenter-form {
   transition: all .2s ease
 }
 
-main section#code-conduct, main section#keynote ul.speakers {
+main section#presenter-recruit p{
+  color: #dd102e;
+  text-align: center;
+  font-weight: bold;
+}
+
+main section#code-conduct{
+  max-width: 840px;
+  margin: 20px auto;
+}
+
+main section#keynote ul.speakers {
   max-width: 840px;
   margin: 0 auto;
   padding: 0 9pt
@@ -783,6 +844,21 @@ footer h2 {
 }
 
 @media screen and (max-width:640px) {
+
+  .dn64{
+    display: none;
+  }
+
+  .additional{
+    margin: 20px 12px;
+    padding: 12px;
+  }
+
+  h3{
+    margin-bottom: 12px;
+    font-size: 1rem;
+  }
+
   main section#keynote ul.speakers, main section#schedule ul li.border dl, main section#sponsors ul {
     display: block
   }
@@ -902,6 +978,14 @@ footer h2 {
   }
   main section#schedule ul li.border dl.basic dd.ib {
     width: 100%
+  }
+
+  main section#join{
+    padding: 12px;
+  }
+
+  main section#code-conduct{
+    padding: 12px;
   }
 
   main section#host p{
