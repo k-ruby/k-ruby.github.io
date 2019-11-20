@@ -696,6 +696,47 @@ main section#schedule ul li.border dl.basic dd.title dl dd.name ul li a.facebook
   background: url(../img/facebook-logo.svg) center / contain no-repeat;
 }
 
+main section#schedule ul li.border dl.basic dd.title dl dd.name ul li a{
+  position: relative;
+}
+
+main section#schedule ul li.border dl.basic dd.title dl dd.name ul li a#david:hover:after{
+  content: "ダビ";
+  display: block;
+  width: 40px;
+  height: 20px;
+  font-size: 0.875rem;
+  text-indent: 0px;
+  position: absolute;
+  bottom: -36px;
+  color: #666;
+  padding: 4px;
+  border: solid 1px #999;
+  text-align: center;
+  background-color: #fff;
+  border-radius: 4px;
+  left: -8px;
+}
+
+main section#schedule ul li.border dl.basic dd.title dl dd.name ul li a#yoyo:hover:after{
+  content: "ヨヨ";
+  display: block;
+  width: 40px;
+  height: 20px;
+  font-size: 0.875rem;
+  text-indent: 0px;
+  position: absolute;
+  bottom: -36px;
+  color: #666;
+  padding: 4px;
+  border: solid 1px #999;
+  text-align: center;
+  background-color: #fff;
+  border-radius: 4px;
+  left: -8px;
+}
+
+
 main section#schedule ul li.border dl.basic dd.title dl dd.content{
   display: none;
 }
