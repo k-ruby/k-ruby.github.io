@@ -387,6 +387,10 @@ main section#code-conduct{
   margin: 20px auto;
 }
 
+main section#code-conduct p a#contact-mail{
+  color: #dd102e;
+}
+
 main section#keynote ul.speakers {
   max-width: 840px;
   margin: 0 auto;
@@ -397,11 +401,12 @@ main section#keynote ul.speakers {
 
 main section#code-conduct p.add {
   color: #a7a7a7;
-  text-align: center
+  text-align: center;
+  margin-top: 20px;
 }
 
 main section#code-conduct p.add a {
-  color: #dd102e
+  color: #a7a7a7;
 }
 
 main section#host p{
