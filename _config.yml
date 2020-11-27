@@ -50,6 +50,8 @@ feed:
 paginate: 10
 paginate_path: /page:num/
 
+include: ["_pages"]
+
 # Exclude from processing.
 exclude:
   - .asset-cache
