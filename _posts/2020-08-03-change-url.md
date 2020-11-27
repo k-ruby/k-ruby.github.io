@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: WebサイトURL変更 
-date: 2020-08-3
+date: 2020-08-03
 categories: blog
 ---
 
