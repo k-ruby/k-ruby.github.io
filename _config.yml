@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: ja-JP 
-title: K-Ruby
+title: "K-Ruby"
 email: tamochia@gmail.com
-description: Kagoshima Ruby Community
+description: "Kagoshima Ruby Community"
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: "https://k-ruby.github.io"
 author:
