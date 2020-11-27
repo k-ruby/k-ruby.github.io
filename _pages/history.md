@@ -20,7 +20,7 @@ permalink: /history/
 * こうだ, 漢字直接入力TUT-codeの紹介
 * reodon, 自己紹介LT
 
-
+　
 # 鹿児島Ruby会議01
 ----
 ## 概要
@@ -48,7 +48,7 @@ permalink: /history/
 * 一般講演12 ダビ＆ヨヨ, Location-based API with Ruby 
 * 招待講演02 江森真由美, Rails Girlsのお話や, 初めての方向けのコミュニティについてなどお話
 
-
+　
 # K-Ruby #24
 ----
 ## 概要
@@ -66,7 +66,7 @@ permalink: /history/
 * 中島成博, Railsでアプリ開発をした感想とこれからの展望
 * 下園幸一, CentOS 8でのRuby環境
 
-
+　
 # K-Ruby #23
 ----
 ## 概要
@@ -81,7 +81,7 @@ permalink: /history/
 * 荻堂修太, Upgrade Elasticsearch from 6.3 to 7.0
 * 栗林健太郎, 怠惰・短気・傲慢な家庭を築く
 
-
+　
 # K-Ruby #22
 ----
 ## 概要
@@ -98,7 +98,7 @@ permalink: /history/
 * 菅野康太, 分野を超えたコラボレーションが盛んな地域になるために
 * 黒瀧悠太, 自由研究: GANを活用した新しいアイテム作成体験を考える
 
-
+　
 # K-Ruby #21
 ----
 ## 概要
@@ -114,7 +114,7 @@ permalink: /history/
 * 中野龍, Ruby 2.6 JITコンパイラ, さくらじまハウスのお知らせ
 * 下園先生, Serverspecによるサーバ設定テスト
 
-
+　
 # K-Ruby #20
 ----
 ## 概要
@@ -130,7 +130,7 @@ permalink: /history/
 * 松岡宏満, JavaScriptのエラーログ収集
 * 小田謙太郎, 暗号通貨関連のこと
 
-
+　
 # K-Ruby 19th
 ----
 ## 概要
@@ -142,18 +142,18 @@ permalink: /history/
 * 山之上卓, 教育版LEGO Mindstorm EV3持ってます
 * 古屋保, Amazon EC2上にてchefを動かす
 
-
-# K-Ruby 18th, 2013-05-30 19:00～ 鹿児島大学学術情報基盤センター
+　
+# K-Ruby 18th
 ----
 ## 概要
-* 日時: 
-* 場所: 
+* 日時: 2013-05-30 19:00～
+* 場所: 鹿児島大学学術情報基盤センター
 * 参加: 7名
 
 ## 発表
 * 古屋保, Railsで作成したシステムの開発秘話
 
-
+　
 # K-Ruby 17th
 ----
 ## 概要
@@ -168,7 +168,7 @@ permalink: /history/
 * 林田紀章, Ext JSで作成したシステムの紹介
 * 下園幸一, 「Ruby on Rails 講演会」の報告
 
-
+　
 # K-Ruby 16th
 ----
 ## 概要
@@ -179,7 +179,7 @@ permalink: /history/
 ## 発表
 * 古屋保, Sinatra＋ActiveRecord＋SQLite3で軽量なWeb-DB連携例
 
-
+　
 # K-Ruby 15th
 ----
 ## 概要
@@ -192,7 +192,7 @@ permalink: /history/
 * 下園幸一, PowerPointをRubyから利用
 * 山之上卓, to do Share (RoR)
 
-
+　
 # K-Ruby 14th
 ----
 ## 概要
@@ -203,7 +203,7 @@ permalink: /history/
 ## 発表
 * 古屋保, AWSのAmazon EC2インスタンス作成について
 
-
+　
 # K-Ruby 13th
 ----
 ## 概要
@@ -215,7 +215,7 @@ permalink: /history/
 ## 発表
 * 胸元, DXRubyでゲームを作ってみました
 
-
+　
 # K-Ruby 12th
 ----
 ## 概要
@@ -229,7 +229,7 @@ permalink: /history/
 * 下園幸一, もくもく会の説明
 * 小田謙太郎, Play Frameworkについて
 
-
+　
 # K-Ruby 11th
 ----
 ## 概要
@@ -242,7 +242,7 @@ permalink: /history/
 * 下園幸一, KDDI CloudCore VPS
 * 古屋保, Gitを使ってみよう
 
-
+　
 # K-Ruby 10th
 ----
 ## 概要
@@ -254,7 +254,7 @@ permalink: /history/
 ## 講演
 * 下園幸一, Ruby on Rails を用いたWEBアプリケーション開発
 
-
+　
 # K-Ruby 9th
 ----
 ## 概要
@@ -266,7 +266,7 @@ permalink: /history/
 * 古屋保, Rubyビジネスコモンズ勉強会参加報告
 * 下園幸一, 鹿児島市産学連携セミナー「Ruby on Rails 講演会」について
 
-
+　
 # K-Ruby 8th
 ----
 ## 概要
@@ -278,7 +278,7 @@ permalink: /history/
 * 下園幸一, 仮想環境を用いたRuby on Rails学習/開発環境
 * 増満工将, (記録なし)
 
-
+　
 # K-Ruby 7th
 ----
 ## 概要
@@ -290,7 +290,7 @@ permalink: /history/
 * 古屋保, BundlerとRails基礎
 * 増満工将,  (記録なし)
 
-
+　
 # K-Ruby 6th
 ----
 ## 概要
@@ -302,7 +302,7 @@ permalink: /history/
 * 増満工将, (記録なし)
 * 小田謙太郎, (記録なし)
 
-
+　
 # K-Ruby 5th
 ----
 ## 概要
@@ -313,7 +313,7 @@ permalink: /history/
 ## 発表
 * 増満工将, (記録なし)
 
-
+　
 # K-Ruby 4th
 ----
 ## 概要
@@ -325,7 +325,7 @@ permalink: /history/
 * 新井俊一, (記録なし)
 * 下園幸一, Ruby on Railsのサンプル作成(認証と国際化)
 
-
+　
 # K-Ruby 3rd
 ----
 ## 概要
@@ -336,7 +336,7 @@ permalink: /history/
 ## 発表
 * 古屋保, RubyとDBの連携 (ActiveRecord)
 
-
+　
 # K-Ruby 2nd
 ----
 ## 概要
@@ -348,7 +348,7 @@ permalink: /history/
 * 下園幸一, Ruby on Railsの開発環境について
 * 小田謙太郎, (記録なし)
 
-
+　
 # K-Ruby 1st
 ----
 ## 概要
