@@ -4,6 +4,17 @@ title: 開催記録
 permalink: /history/
 ---
 
+# K-Ruby #26
+----
+## 概要
+* 日時: 2021-09-09 18:00～19:30
+* 場所: オンライン(Google Meet)開催
+* 参加: 10名
+
+## 内容
+* 雑談しつつ、もくもく会
+* [K-Ruby#26 開催されました](/blog/2021/09/13/meetup-26.html)
+
 # K-Ruby #25
 ----
 ## 概要
@@ -12,7 +23,7 @@ permalink: /history/
 * 参加: 34名
 
 ## 発表
-* くすたん, spearly_flutterによる爆速開発のすゝめ
+* くすたん, spearly\_lutterによる爆速開発のすゝめ
 * はやぴ, Gemの改修とリリース
 * よしこ, GitHub Actionsを使ってNext.js x AWS EC2を自動デプロイした話
 * あんちぽ, Nervesで拡張性の高いIoTデバイスを作る
