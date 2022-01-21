@@ -13,7 +13,7 @@ permalink: /history/
 
 ## 内容: 
 * LT＆もくもく会
-* [K-Ruby#28 LT＆もくもく会開催](/blog/2022/01/20/meetup-28.html)
+* [K-Ruby#28 LT＆もくもく会開催](/blog/2022/01/21/meetup-28.html)
 
 ## 発表
 - あんちぽ, Elixirで構成された3層構造からなるIoTシステムにおける分散機械学習・推論実行
