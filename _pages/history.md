@@ -4,6 +4,24 @@ title: 開催記録
 permalink: /history/
 ---
 
+# K-Ruby #28
+----
+## 概要
+* 日時: 2022-01-20 19:00～20:00
+* 場所: オンライン(Google Meet)開催
+* 参加: 16名
+
+## 内容: 
+* LT＆もくもく会
+* [K-Ruby#28 LT＆もくもく会開催](/blog/2022/01/20/meetup-28.html)
+
+## 発表
+- あんちぽ, Elixirで構成された3層構造からなるIoTシステムにおける分散機械学習・推論実行
+- kurotaky, センサ（Sendor）の作り方
+- ikuma-t,  地方公共団体コードを便利に使うためのgemを作った
+- Miyuki ZAK,  はじめまして！Miyuki@ZAK\_ZAKZAKZAKです
+
+
 # K-Ruby #27
 ----
 ## 概要
