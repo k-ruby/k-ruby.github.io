@@ -4,6 +4,28 @@ title: 開催記録
 permalink: /history/
 ---
 
+# K-Ruby #30
+----
+## 概要
+* 日時: 2022-05-19 19:00～21:00
+* 場所: GMOペパボ鹿児島オフィス＋オンライン(Google Meet)開催
+* 参加: 35名
+
+## 内容
+* 第30回記念大会
+* [K-Ruby#30 記念大会](/blog/2022/05/23/meetup-30.html)
+
+## 発表
+- SHiroshi SHIBATA, 記念講演「OSSことはじめ」
+- yoshikouki.eth, K-Rubyなど紹介
+- 森塚真年, String#split何もわかってなかった
+- Ikuma_t, BEYOND THE RELEASE
+- D.J., keep your gems up-to-date
+- あんちぽ, asdfでRubyを使う
+- 大竹山竜輝, 四月からエンジニアになれました
+- Yuta Kurotaki, イーサリアムにつなぎこむRubyライブラリ「eth.rb」の話
+
+
 # K-Ruby #29
 ----
 ## 概要
@@ -11,7 +33,7 @@ permalink: /history/
 * 場所: オンライン(Google Meet)開催
 * 参加: 17名
 
-## 内容:
+## 内容
 * LT＆もくもく会
 * [K-Ruby#29 LT＆もくもく会開催](/blog/2022/03/18/meetup-29.html)
 
@@ -29,7 +51,7 @@ permalink: /history/
 * 場所: オンライン(Google Meet)開催
 * 参加: 16名
 
-## 内容: 
+## 内容
 * LT＆もくもく会
 * [K-Ruby#28 LT＆もくもく会開催](/blog/2022/01/21/meetup-28.html)
 
@@ -47,7 +69,7 @@ permalink: /history/
 * 場所: オンライン(Zoom)開催
 * 参加: 22名
 
-## 内容: 
+## 内容
 * 年末LT大会
 * [K-Ruby#27 年末LT大会が開催されました](/blog/2021/11/19/meetup-27.html)
 
