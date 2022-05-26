@@ -16,14 +16,14 @@ permalink: /history/
 * [K-Ruby#30 記念大会](/blog/2022/05/23/meetup-30.html)
 
 ## 発表
-- SHiroshi SHIBATA, 記念講演「OSSことはじめ」
-- yoshikouki.eth, K-Rubyなど紹介
+- 柴田博志, 記念講演「OSSことはじめ」
+- 吉本康貴, K-Rubyなど紹介
 - 森塚真年, String#split何もわかってなかった
-- Ikuma_t, BEYOND THE RELEASE
-- D.J., keep your gems up-to-date
-- あんちぽ, asdfでRubyを使う
+- Ikuma-t, BEYOND THE RELEASE
+- David Grilli, keep your gems up-to-date
+- 栗林健太郎, asdfでRubyを使う
 - 大竹山竜輝, 四月からエンジニアになれました
-- Yuta Kurotaki, イーサリアムにつなぎこむRubyライブラリ「eth.rb」の話
+- 黒瀧悠太, イーサリアムにつなぎこむRubyライブラリ「eth.rb」の話
 
 
 # K-Ruby #29
@@ -38,7 +38,7 @@ permalink: /history/
 * [K-Ruby#29 LT＆もくもく会開催](/blog/2022/03/18/meetup-29.html)
 
 ## 発表
-- あんちぽ, 最近のElixir活動＠2022年3月
+- 栗林健太郎, 最近のElixir活動＠2022年3月
 - 池田昭仁, 今日食べるべきお弁当メニューの神託を賜る
 - はやぴ, 鹿児島オフィスの出社状況をデータ化
 - 森塚真年, enpayのRubyが3.1.0にアップデートしました
@@ -56,8 +56,8 @@ permalink: /history/
 * [K-Ruby#28 LT＆もくもく会開催](/blog/2022/01/21/meetup-28.html)
 
 ## 発表
-- あんちぽ, Elixirで構成された3層構造からなるIoTシステムにおける分散機械学習・推論実行
-- kurotaky, センサ（Sendor）の作り方
+- 栗林健太郎, Elixirで構成された3層構造からなるIoTシステムにおける分散機械学習・推論実行
+- 黒瀧悠太, センサ（Sendor）の作り方
 - ikuma-t,  地方公共団体コードを便利に使うためのgemを作った
 - Miyuki ZAK,  はじめまして！Miyuki@ZAK\_ZAKZAKZAKです
 
@@ -78,7 +78,7 @@ permalink: /history/
 - うづら, RBSを使ってみた話
 - わかるわ, 端末でRubyリファレンスを参照する refe2 の紹介
 - きのすけ, WordPress簡単インストール機能をRubyではなくGoで実装した
-- あんちぽ, Livebookの紹介
+- 栗林健太郎, Livebookの紹介
 - 森塚真年, gemを作るときのexeに関する小話
 - kurehajime, 最近Railsはじめました者です...(略)
 
