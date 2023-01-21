@@ -1,6 +1,0 @@
-[submodule "kagoshima-rubykaigi02-test"]
-	path = kagoshima-rubykaigi02-test
-	url = https://github.com/k-ruby/kagoshima-rubykaigi02.git
-[submodule "kagoshima-rubykaigi02-private"]
-	path = kagoshima-rubykaigi02-private
-	url = https://github.com/k-ruby/kagoshima-rubykaigi02
