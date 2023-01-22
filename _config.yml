@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-lang: ja-JP 
+lang: ja-JP
 title: "K-Ruby"
 email: tamochia@gmail.com
 description: "Kagoshima Ruby Community"
@@ -76,7 +76,7 @@ exclude:
   - /docs # ignore Basically Basic sample site
   - /example # ignore Basically Basic dev site
 
-keep_files:    
+keep_files:
   - /kagoshima-rubykaigi01/
 
 # Front Matter Defaults
