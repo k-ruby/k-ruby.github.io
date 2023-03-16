@@ -37,6 +37,9 @@ permalink: /history/
 * hyumanase (@hyumanase)
 * Tamotsu FURUYA (@tamochia)
 
+## 内容
+* [鹿児島Ruby会議02まとめ](/blog/2023/03/13/rubykaigi02.html)
+
 
 # K-Ruby #33
 ----
