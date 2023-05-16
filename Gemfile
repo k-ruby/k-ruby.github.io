@@ -38,3 +38,6 @@ gem "nokogiri", "~> 1.14.3"
 # Fix for GitHub security alerts. 2020-08-08
 gem "kramdown", ">= 2.3.0"
 
+gem "commonmarker", "~> 0.23.4"
+gem "activesupport", "~> 6.1.7.1"
+
