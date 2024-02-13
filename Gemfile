@@ -34,7 +34,7 @@ end
 #gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # Suggestions for a vulnerability of Nokogiri from GitHub. 2019-08-21
-gem "nokogiri", "~> 1.14.3"
+gem "nokogiri", "~> 1.16.2"
 # Fix for GitHub security alerts. 2020-08-08
 gem "kramdown", ">= 2.3.0"
 
