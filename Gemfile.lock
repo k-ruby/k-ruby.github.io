@@ -216,7 +216,7 @@ GEM
     minitest (5.24.1)
     net-http (0.4.1)
       uri
-    nokogiri (1.18.3)
+    nokogiri (1.18.4)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
     octokit (4.25.1)
@@ -264,7 +264,7 @@ DEPENDENCIES
   jekyll-paginate
   kramdown (>= 2.3.0)
   minima (~> 2.0)
-  nokogiri (~> 1.18.3)
+  nokogiri (~> 1.18.4)
   webrick
 
 BUNDLED WITH
